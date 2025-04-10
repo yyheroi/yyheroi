@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 你的足迹!
+
+<p align="center">
+  <b>来访次数: </b>
+  <br><br>
+  <img src="https://profile-counter.glitch.me/yyheroi/count.svg"/>
+</p>
+
